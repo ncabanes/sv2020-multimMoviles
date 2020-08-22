@@ -1,2 +1,2 @@
-# 2019-multimMoviles
+# sv2020-multimMoviles
 Ejercicios de clase de la asignatura "Programación Multimedia y Dispositivos Móviles", IES San Vicente (España), 2020-2021
